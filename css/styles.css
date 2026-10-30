@@ -1,4 +1,4 @@
-* {
+﻿* {
     box-sizing: border-box;
 }
 
@@ -14,65 +14,65 @@ body {
 }
 
 .caja1 {
-    background-color: #9d7d63;
+    background-color: #e63946;
     height: 100px;
 }
 
 .caja2 {
-    background-color: #d39529;
+    background-color: #f4a261;
     height: 100px;
 }
 
 .caja3 {
-    background-color: #ecc021cc;
+    background-color: #ffd60a;
     height: 100px;
 }
 
 .caja4 {
-    background-color: #d55e23;
+    background-color: #52b788;
     height: 100px;
 }
 .caja5 {
-    background-color: #f5c117;
+    background-color: #2ec4b6;
     height: 100px;
 }
 .caja6 {
-    background-color: #dc8606;
+    background-color: #4cc9f0;
     height: 100px;
 }
 
 .caja7 {
-    background-color: #a14d07;
+    background-color: #4361ee;
     height: 100px;
 }
 
 .caja8 {
-    background-color: #d5964a;
+    background-color: #7209b7;
     height: 100px;
 }
 
 .caja9 {
-    background-color: #f2bf47;
+    background-color: #f72585;
     height: 100px;
 }
 
 .caja10 {
-    background-color: #d19107;
+    background-color: #ff8fab;
     height: 100px;
 }
 
 .caja11 {
-    background-color: #863205;
+    background-color: #80ed99;
     height: 100px;
 }
 
 .caja12 {
-    background-color: #d3250e;
+    background-color: #ff6d00;
     height: 100px;
 }
 
 .caja13 {
-    background-color: #ff961d;
+    background-color: #3a0ca3;
     height: 100px;
 }
 @media (max-width: 767.98px) { .caja1 { height: 30px; }     
